@@ -1,4 +1,4 @@
-<img src="cmp204banner.jpg" alt="CMP204 banner image" height="400" />
+<img src="cmp204banner.jpg" alt="CMP204 banner image" height="300" />
 
 # CMP204 Dynamic Web Development 1 (2020/21)
 
