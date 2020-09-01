@@ -2,10 +2,10 @@
 
 This list of resources may be useful for students studying CMP204 Dynamic Web Development 1.
 
-## <img src="icons/github.svg" alt="GitHub Logo" height="35" />General Resources
+## <img src="icons/github.svg" alt="GitHub Logo" height="30" /> General Resources
 - <a href="https://education.github.com/pack">GitHub Student Developer Pack</a> - this includes free goodies (e.g. developer tools and resources) which may be helpful during your studies.
 
-## Tools and Software
+## <img src="icons/apache.svg" alt="Apache Logo" height="30" /> Tools and Software
 - <a href="https://www.apachefriends.org/index.html">XAMPP</a> - Open-source cross-platform web server solution stack (Apache, MariaDB, PHP, Perl).
 - <a href="https://filezilla-project.org/download.php">FileZilla FTP Client</a> - for transferring your files to a web server.
 - <a href="">Microsoft VS Code</a> - source-code editor with many extensions relevant for web development.
