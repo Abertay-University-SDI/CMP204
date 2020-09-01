@@ -2,7 +2,7 @@
 
 This list of resources may be useful for students studying CMP204 Dynamic Web Development 1.
 
-## General Resources
+## <img src="icons/github.svg" alt="GitHub Logo" height="35" />General Resources
 - <a href="https://education.github.com/pack">GitHub Student Developer Pack</a> - this includes free goodies (e.g. developer tools and resources) which may be helpful during your studies.
 
 ## Tools and Software
