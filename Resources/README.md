@@ -33,9 +33,10 @@ Please note- we will be using Google Chrome and Mozilla Firefox in class.
 - <a href="https://api.jquery.com/">jQuery documentation</a> - JavaScript library.
 
 ### <img src="icons/mysql.svg" alt="MySQL Logo" height="30" /> MySQL/MariaDB
-
+- <a href="https://devhints.io/mysql">MySQL cheatsheet</a>
 
 ### <img src="icons/php.svg" alt="PHP Logo" height="30" /> PHP
+- <a href="https://www.php.net/manual/en/langref.php">PHP language reference</a>
 
 
 ___
